@@ -9,3 +9,4 @@ The tools we used in this module are (1) SQLite, (2) SQLAlchemy, and (3) FLASK.
 #### ● The max/highest temperature for the month of June is 85.0 degrees fareheit; the max/highest temperature for the month of Dececember is 83.0 degrees Farenheit.
 ### Overall: temperatures in June are warmer compared to December.
 <img width="45%" alt="June_Histogram" src="https://user-images.githubusercontent.com/101305696/168562290-da374850-c0ea-465a-92d3-ec1555cd23ff.png"> <img width="45%" alt="December_Histogram" src="https://user-images.githubusercontent.com/101305696/168562313-e2066e1c-eceb-48b8-bfb8-4cf4bc224899.png">
+### It would benefit the business to have more inventory of surfing equipment as well as shakes during June.
