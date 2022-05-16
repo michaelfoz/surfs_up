@@ -1,1 +1,4 @@
-### surfs_up (UCD Module 9)
+### surfs_up (UCD Module 9) Analysis Overview:
+The tools we used in this module are (1) SQLite, (2) SQLAlchemy, and (3) FLASK.
+#### SQLite is a version of SQL that is stored locally--as opposed to being stored on a database server--and runs on a computer or a phone.  We find that local databases support faster testing and prototyping.  In this Module, we use SQLAlchemny, which is a query tool designed for SQLite;  this tool is useful when integrating statistical analyses with dataframe analyses.  In addition, we use FLASK, which is a web framework that uses Python to build web pages.  Web pages are a useful and dynamic way to display data and come in handy in instances where people aren't able to run your code themselves.
+#### For the assignemnt, we compare weather data from two different months in year.
